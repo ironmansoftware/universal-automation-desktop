@@ -17,3 +17,7 @@ You can download Universal Automation Desktop from our Releases page. Double-cli
 - Assign scripts to global keyboard shortcuts 
 - Integrates with Git 
 - Launch VS Code directly from UA Desktop
+
+# Issues 
+
+Please file issues on the [Universal Automation](https://github.com/ironmansoftware/universal-automation/issues) repository and tag them with "Desktop"
